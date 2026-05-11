@@ -78,7 +78,15 @@ Tetris/
 
 <p align="center">
 
-<img width="700" src="./assets/tetris-preview.png" />
+<img width="600" src="./assets/Tetris_start.png" />
+
+<br>
+
+<img width="600" src="./assets/Tetris_main.png" />
+
+<br>
+
+<img width="600" src="./assets/Tetris_end.png" />
 
 </p>
 
